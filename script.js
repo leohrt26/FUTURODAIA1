@@ -10,13 +10,13 @@ const textoResultado = document. querySelector(*.texto-resultado");
 
 const
 perguntas = [
-enunciado: "você acha que a IA vai mudar o mundo ?", alternativas: [
-"Alternativa 1",
-"Alternativa 2"
+enunciado: "Você acha que a IA vai mudar o mundo ?", alternativas: [
+"sim",
+"não"
 },
-enunciado: "Pergunta 2", alternativas: [
-"Alternativa 1",
-"Alternativa 2"
-enunciado: "Pergunta 3", alternativas: [
-"Alternativa 1",
-"Alternativa 2"
+enunciado: "Oque significa IA", alternativas: [
+"inteligencia autonoma",
+"inteligencia artificial"
+enunciado: "Qual tecnologia permite que a IA aprenda com dados", alternativas: [
+"Machine Learning",
+"WI-FI"
